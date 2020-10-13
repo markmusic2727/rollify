@@ -1,16 +1,14 @@
-# dicee
+<img align="left" alt="Mark Music| Twitter" width="100px" src="https://i.ibb.co/vV43qJf/rollify.png" /> 
 
-A new Flutter project.
+<br>
+<br>
+<br>
 
-## Getting Started
+# Rollify
 
-This project is a starting point for a Flutter application.
+The ultimate mobile application for decision making for quick, easy, reliable, and effective results.
 
-A few resources to get you started if this is your first Flutter project:
+## Story
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
